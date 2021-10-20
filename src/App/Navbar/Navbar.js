@@ -1,3 +1,4 @@
+
 import { Tabs } from "antd";
 
 const { TabPane } = Tabs;
@@ -22,7 +23,9 @@ const Navbar = () => {
           Contact
         </TabPane>
       </Tabs>
+      
     </div>
+    
   );
 };
 
