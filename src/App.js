@@ -1,11 +1,12 @@
-import React from 'react';
-import { Button } from 'antd';
-import './App.css';
+import "./App.css";
+import Navbar from "./App/Navbar/Navbar";
 
-const App = () => (
-  <div className="App">
-    <Button type="primary">Button</Button>
-  </div>
-);
-
+function App() {
+  return (
+    
+      <div className="App">
+        <Navbar />
+      </div>)
+    
+  }
 export default App;
