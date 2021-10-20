@@ -5,20 +5,20 @@ const { TabPane } = Tabs;
 const Navbar = () => {
   return (
     <div>
-      <Tabs centered>
-        <TabPane tab="Home">
+      <Tabs defaultActiveKey="1" centered>
+        <TabPane tab="Home" key="1">
           Home
         </TabPane>
-        <TabPane tab="Services">
+        <TabPane tab="Services" key="2">
           Services
         </TabPane>
-        <TabPane tab="About">
+        <TabPane tab="About" key="3">
           About
         </TabPane>
-        <TabPane tab="Portfolio">
+        <TabPane tab="Portfolio" key="4">
           Portfolio
         </TabPane>
-        <TabPane tab="Contact">
+        <TabPane tab="Contact" key="5">
           Contact
         </TabPane>
       </Tabs>
