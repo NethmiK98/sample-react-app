@@ -16,10 +16,10 @@ const Navbar = () => {
         <TabPane tab="About" key="3">
           About
         </TabPane>
-        <TabPane tab="Portfolio" key="4">
+        <TabPane tab="Blog" key="4">
           Portfolio
         </TabPane>
-        <TabPane tab="Contact" key="5">
+        <TabPane tab="Contact us" key="5">
           Contact
         </TabPane>
       </Tabs>
