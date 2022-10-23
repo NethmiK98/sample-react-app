@@ -14,7 +14,10 @@ return(
       <h3 style={contentStyle}>Swipe to see new arrivals.</h3>
     </div>
     <div>
-      <h3 style={contentStyle}>2</h3>
+      <h3 style={contentStyle}>  <p>
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                </p>
+              <br></br></h3>
     </div>
     <div>
       <h3 style={contentStyle}>3</h3>
