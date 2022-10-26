@@ -13,7 +13,7 @@ const Navbar = () => {
         <TabPane tab="Services" key="2">
           Services
         </TabPane>
-        <TabPane tab="About" key="3">
+        <TabPane tab="About Us" key="3">
           About
         </TabPane>
         <TabPane tab="Blog" key="4">
